@@ -1,0 +1,21 @@
+ body{
+ 	font-size: small;
+ }
+ table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+ 
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+section{
+	padding-left: 220px;
+	color: gray;
+}
+h2{
+	color: black;
+}
